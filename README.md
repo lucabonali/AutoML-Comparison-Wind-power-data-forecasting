@@ -11,3 +11,8 @@ In the Data folder there are 4 files:
 * scaled_wind_data.csv -> Output of the preprocessing notebook, and input of the comparison notebook.
 * scaling_df.csv -> mean and standard deviation of the features and label variables (derived from standard scaling).
 * wind_turbine_data.csv -> original input dataset, founded here: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset?resource=download
+
+## Notebooks
+
+* preprocessing_wind_power_data.ipynb -> preprocessing steps and analysis from wind_turbine_data.csv input.
+* comparison_wind_power_data.ipynb -> libraries comparison and outputs.
